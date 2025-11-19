@@ -1,0 +1,15 @@
+name: pareto-plots
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+    - requests
+    - beautifulsoup4
+    - numpy
+    - pandas
+    - matplotlib
+    - git+https://github.com/guicho271828/fattrace.git#egg=fattrace
+
+
