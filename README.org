@@ -11,4 +11,4 @@ Chatgpt is nice for these mundane tasks.
 + weightweenie.py --- TBD https://weightweenies.starbike.com/listings.php
 + rollingresistance.py --- TBD https://www.bicyclerollingresistance.com
 
-![Example](example-helmet.png)
+[[example-helmet.png]]
